@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Luis Enrique Cornejo Arreola
+- 👀 I’m working in IBL
+- 🌱 I’m Full Stack Developer
+- 📫 Social Media:
+ -> LinkedIn: linkedin/in/luis-cornejo-036118207
+ -> email: luis.cornejo.96@hotmail.com
+ -> phone: +52 4427065909
